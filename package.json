@@ -17,6 +17,7 @@
   "build": {
     "appId": "ng.com.sfsndata.desktop",
     "productName": "SFSNData",
+    "publish": null,
     "files": [
       "src/**/*",
       "assets/**/*"
